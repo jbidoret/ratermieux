@@ -1,0 +1,25 @@
+{%- block site_nav %}
+  <nav>
+    <ul>
+      {%- for nav_item in nav %}
+        {%- if nav_item.is_section %}
+          
+          {% for subitem in nav_item.children %}
+            {% if subitem.is_index %}          
+              <li class="{% if nav_item.active %} current{% endif %}">
+                <a href="{{ config.site_url }}{{ subitem.url }}">{{ nav_item.title }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+          
+        {%- elif config.theme.include_homepage_in_sidebar or (not nav_item == nav.homepage) %}
+        
+          <li class="{% if nav_item.active %} current{% endif %}">
+            <a href="{{ config.site_url }}{{ nav_item.url }}">{{ nav_item.title }}</a>
+          </li>
+          
+        {%- endif %}
+      {%- endfor %}
+    </ul>
+  </nav>
+{%- endblock %}

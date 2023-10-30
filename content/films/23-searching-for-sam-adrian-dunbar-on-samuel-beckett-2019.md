@@ -1,0 +1,37 @@
+---
+title: "Searching for Sam"
+---
+
+# Searching for Sam: Adrian Dunbar on Samuel Beckett (2019)
+
+<video controls src='https://ubu.com/media/video/Beckett-Samuel_Searching-for-Sam_Paul-McGuigan 2019.mkv'></video>
+
+
+The Guardian: 
+
+If the work Adrian Dunbar is best known for – the police drama Line of Duty – left us with the tantalising riddle about the identity of the master criminal H, his new documentary tries to unmask an even more evasive man: Samuel Beckett. In Searching for Sam: Adrian Dunbar on Samuel Beckett (BBC Four), the actor we know and love as Superintendent Ted Hastings follows the reportedly too-small-shoe’d footsteps of his great hero.
+
+It was Beckett’s play Waiting for Godot that changed Dunbar’s life while a drama student, he says, so this is something of a personal quest. Go on, Dunbar, call him “fella”! But Dunbar is too reverential for that. “I’ve often heard people say Beckett’s work is difficult and bleak, but that’s not true for me,” he says, over images of Beckett looking, as one contributor memorably says, like an “Aztec eagle”. “I find engaging with Beckett’s work both life-affirming and uplifting.”
+
+Beckett was at school in Dunbar’s home town, Enniskillen, Northern Ireland. Although they never met, Beckett’s life, says Dunbar – who has a lovely turn of phrase – “while elusive, is still within touching distance”. And so he tracks down the “dwindling number” of people who knew him, and follows him from Dublin to Paris, then on to the village of Roussillon, where Beckett and his partner Suzanne fled from the Nazis.
+
+Like one of the long walks into the hills Beckett used to take with his father, it covers a lot of ground, but not a huge amount of depth. There is no doubt it must be hard to make a documentary about a man so private and ambiguous, but much of it feels frustratingly shallow. Explanations are unforthcoming, which I guess Beckett would have approved of. Godot “revolutionised drama for ever,” says Dunbar, but it is not explained how or why.
+
+The film seems to rely on a lot of prior knowledge of Beckett’s work, which may be fine for many BBC Four viewers, but not all (and not this one). Dunbar is an engaging guide, but his enthusiasm sometimes trips him up – at one point, he says he feels as if he is prying, but a bit more prying is what this documentary could do with. Or a bit more levity (yes, I know we’re talking about nihilist Beckett here). Take it from the man himself. Stephen Rea, one of the “inner circle” of Beckett actors, says: “He never ever talked about meaning. He only talked about adding more humour.”
+
+Dunbar doesn’t always pull at interesting threads, either. Beckett falls in love with his first cousin. “You have to wonder what effect falling in love so close to home did to him,” says the historian and writer Diarmaid Ferriter, but he isn’t pushed on a theory. Beckett’s biographer, James Knowlson, says: “When he wrote about that, it really caused something of a rift with his family.” But what did he write? We are never told.
+
+But in many places it is illuminating – there is curious stuff about his relationship with his mentor and kind-of boss James Joyce – and its sense of place is rich and evocative. Dunbar starts in rainy Dublin; Beckett grew up in an affluent Protestant suburb, largely shielded from the poverty in the city. He was expected to be a servant to the empire, go into the church or the army, perhaps, brought up with an ethos “of Christian, civic responsibility”, although, of course, he rejects this.
+
+I’m a sucker for specifics, and here it works best when the excavation of Beckett’s life is linked to his work. So his difficult relationship with his mother is illuminated by the mother-child dynamic in his works Company, and The End, and her death is fictionalised in another play. But it’s frustrating when the influence of Beckett’s experiences are hinted at but not explained. “What do they see on their journey?” asks Ferriter about Beckett and Suzanne’s fleeing Paris for the French countryside. “What kind of landscape is that? Does that find its way into later work? I think it certainly does.” Dunbar doesn’t ask for, or offer up, an example.
+
+Still, the longer the film goes on the more I like Dunbar, walking the streets in his leather jacket, and his opinions. Talking about the impact of grief – both he and Beckett lost their fathers fairly young – he says: “Pain makes you articulate,” but grief does the opposite. “Women bond face-to-face,” he opines, but men, talking about the father and son’s long walks, “bond shoulder to shoulder”.
+
+Beckett’s war years are portrayed as the making of him: he joins the resistance, working as a translator (he was “a terrible shot”), before he and his partner Suzanne are forced to run away once his cell is broken. What a life. In Normandy, he volunteers for the Irish Red Cross, working as a translator, driver and rat-catcher. “It seems to me that after the second world war, Beckett finally realised he had something to write about,” offers Dunbar. There is, says Ferriter, “internalised trauma” and you don’t need to be a Beckett scholar to know that it did influence his work. “He saw the world as a place of great suffering,” says actor Barry McGovern.
+
+Back in Paris, Beckett locks himself away for a couple of years and creates three novels and “the play that would change everything” – and no, I still don’t understand what that really means. It is a film that is as intriguing – but elusive – as its subject.
+
+
+
+
+[Voir sur UbuWeb](https://ubu.com/film/beckett_searching.html)

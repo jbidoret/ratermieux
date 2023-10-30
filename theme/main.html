@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ config.theme.locale|default('fr') }}" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {%- if page and page.is_homepage %}<meta name="description" content="{{ config.site_description }}" />{%- endif %}
+  {%- if config.site_author %}<meta name="author" content="{{ config.site_author }}" />{%- endif %}
+  {%- if page and page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}" />{%- endif %}
+  <link rel="shortcut icon" href="{{ 'img/favicon.ico'|url }}" />
+
+  {%- block title %}
+    <title>{% if page and page.title and not page.is_homepage %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+  {%- endblock %}
+
+  <link rel="stylesheet" href="{{ 'css/style.css'|url }}" />
+
+
+</head>
+<body class="page-{{page.title|lower}}">
+
+  <header id="header">
+    <div class="logo">
+      <a href="{{ nav.homepage.url|url }}" class="icon icon-home"> {{ config.site_name }}</a>      
+    </div>
+    {%- if config.site_subtitle %}<p>{{ config.site_subtitle }}</p>{%- endif %}
+    {%- include "_nav.html" %}
+    {%- include "_searchbox.html" %}
+  </header>
+
+  <main>
+    {% block content %}
+      {{ page.content }}
+    {% endblock %}
+  </main>
+
+  {%- include "_footer.html" %}
+
+  <script>var base_url = {{ base_url|tojson }};</script>
+  <script src="{{ 'js/script.js'|url }}"></script>
+  {%- for script in config.extra_javascript %}
+    {{ script|script_tag }}
+  {%- endfor %}
+
+</body>
+</html>

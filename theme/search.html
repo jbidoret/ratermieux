@@ -1,0 +1,15 @@
+{% extends "main.html" %}
+
+{% block content %}
+
+  <h1>Recherche</h1>
+
+  <form id="content_search" action="search.html">
+    <input name="q" id="mkdocs-search-query" type="search" placeholder="Rechercher" aria-label="Rechercher" autocomplete="off" autofocus title="Saisir une requête">
+  </form>
+
+  <div id="mkdocs-search-results"  data-no-results-text="Pas de résultats.">
+    En attendant…
+  </div>
+
+{% endblock %}

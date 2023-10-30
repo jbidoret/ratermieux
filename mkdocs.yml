@@ -1,0 +1,21 @@
+site_name: Rater mieux
+site_url: https://ratermieux.neocities.org
+site_description: Un hommage à Samuel Beckett et à Ubu Web
+site_subtitle: Un hommage à Samuel Beckett et à Ubu Web
+docs_dir: content
+theme:
+  name: null
+  custom_dir: 'theme'
+  navigation_depth: 4
+  include_search_page: true
+  features:
+    - search.highlight
+  static_templates:
+    - 404.html
+plugins: 
+  - search
+
+sections:
+  textes: Textes
+  films: Films
+  sons: Sons
