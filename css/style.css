@@ -1,0 +1,108 @@
+@font-face{
+  font-family: "Libre Franklin";
+  src: url('LibreFranklin-VariableFont_wght.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 100 900;
+}
+/* ---------------------------------- common */
+body {
+  margin: 0;
+  font-family: "Libre Franklin";
+  font-variation-settings: "wght" var(--libre-franklin-wght);
+  line-height: 1.4;
+}
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+p {
+  max-width: 70ch;
+}
+
+/* ---------------------------------- layout */
+header, main, footer {
+  padding: 2rem;
+}
+
+/* ---------------------------------- header & nav */
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  border-bottom: 1px solid #000;
+  font-size: 1.5em;
+}
+header * {
+  margin: 0;
+  padding: 0;
+}
+nav ul {
+  list-style: none;
+}
+.current {
+  font-weight: 700;
+}
+
+input[type="search"]{
+  font:inherit;
+  border: none;
+  border-bottom: 1px solid #000;
+}
+input[type="search"]:focus{
+  outline: none;
+  border-color: red;
+}
+
+
+/* ---------------------------------- main content */
+main > :first-child { margin-top: 0;}
+main h1 {
+  font-size: 1.5em;
+}
+main ul {
+  font-size: 1.5em;
+  padding-left: 0;
+  list-style-position: inside;
+}
+main p a{
+  text-decoration: underline;
+  text-underline-offset: .25em;
+}
+main:has(video)::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+main:has(video) > *:not(video){
+  width: calc(50% - .75em);
+}
+video {
+  float: right;
+  width: calc(50% - .75em);
+}
+
+blockquote {
+  font-size: 2em;
+  font-weight: 500;
+  margin-left: 0;
+}
+
+.playing {
+  animation: playing 500ms alternate infinite;
+}
+@keyframes playing {
+  100% { color: red;}
+}
+
+/* ---------------------------------- home */
+.page-home main {
+  background: #000;
+  color: white;
+}
+/* ---------------------------------- footer */
+footer {
+  border-top: 1px solid #000;
+}
