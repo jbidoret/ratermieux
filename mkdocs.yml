@@ -14,6 +14,7 @@ theme:
     - 404.html
 plugins: 
   - search
+  - img2fig
 
 sections:
   textes: Textes
